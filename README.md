@@ -15,6 +15,7 @@ Powered by a **LangChain Tool-Calling Agent** and **Google Gemini 2.5 Flash**, t
 > **🌐 EXPLORE OTHER VERSIONS OF NOVACAL AI:**
 > * **[Streamlit Dashboard Edition](https://github.com/viochris/NovaCal-AI-Streamlit.git):** If you are looking for the Visual Web UI version of NovaCal AI.
 > * **[Stateful Telegram Edition (With Memory)](https://github.com/viochris/telegram-calendar-ai-bot.git):** If you are looking for the conversational, SQL-backed memory version capable of multi-turn interactions.
+> * **[Ephemeral Telegram Edition (Slot-Filling Memory)](https://github.com/viochris/NovaCal-Ephemeral-AI.git):** If you need a balanced architecture using temporary RAM-based memory that auto-clears after each task to save API tokens while allowing multi-turn inputs.
 
 ## ⚠️ IMPORTANT: Why This Bot Is Locked To A Single User?
 > This bot is authenticated using your personal Google Calendar credentials. If it were open to the public, anyone on Telegram could read your private schedules, add fake events, or delete your important meetings!
